@@ -301,3 +301,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Linux compiled files and binary
+*.o
+*.so
